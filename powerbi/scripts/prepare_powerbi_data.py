@@ -179,7 +179,7 @@ print("RECOMENDACIONES PARA POWER BI:")
 print("="*60)
 print("\n1. IMPORTAR:")
 print(f"   - {output_file} (dataset principal preparado)")
-print(f"   - ../data/country_codes.csv (ya está en el dataset principal)")
+print(f"   - ../data/country_codes.csv (ya está incluido en el dataset principal)")
 
 print("\n2. RELACIONES:")
 print("   - IDENPA → Country Code (si cargas country_codes por separado)")

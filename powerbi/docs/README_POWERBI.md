@@ -2,47 +2,50 @@
 
 Esta carpeta contiene todos los recursos necesarios para crear el dashboard de Power BI según los requisitos del trabajo final.
 
-## 📁 Archivos Incluidos
+## 📁 Estructura de Archivos
 
-### Documentación:
-- **`POWERBI_SETUP_COMPLETO.md`** - Guía paso a paso completa para crear el dashboard
-- **`POWERBI_GUIDE.md`** - Guía general y conceptos
-- **`DAX_FORMULAS_REFERENCE.md`** - Todas las fórmulas DAX organizadas por categoría
-- **`README_POWERBI.md`** - Este archivo (índice y resumen)
+```
+powerbi/
+├── docs/
+│   ├── POWERBI_SETUP_COMPLETO.md    - Guía paso a paso completa
+│   ├── POWERBI_GUIDE.md              - Guía general y conceptos
+│   ├── DAX_FORMULAS_REFERENCE.md     - Todas las fórmulas DAX
+│   ├── QUICK_START_POWERBI.md        - Inicio rápido
+│   └── README_POWERBI.md             - Este archivo (índice)
+├── scripts/
+│   ├── prepare_powerbi_data.py       - Prepara dataset optimizado
+│   └── explore_columns.py            - Explora columnas del dataset
+└── data/
+    ├── Latinobarometro_2024_PowerBI.csv      - Dataset preparado (se genera)
+    └── Resumen_Columnas_PowerBI.csv          - Resumen de columnas (se genera)
+```
 
-### Scripts de Preparación:
-- **`python/prepare_powerbi_data.py`** - Prepara y exporta dataset optimizado para Power BI
-- **`python/explore_columns.py`** - Explora valores en columnas para identificar cuáles usar
-
-### Datos Preparados:
-- **`data/Latinobarometro_2024_PowerBI.csv`** - Dataset preparado y limpio para importar
-- **`data/Resumen_Columnas_PowerBI.csv`** - Resumen de columnas exportadas
-- **`data/country_codes.csv`** - Códigos de países (ya incluido en dataset principal)
+**Nota:** Los datos originales están en `../data/` (un nivel arriba)
 
 ## 🚀 Inicio Rápido
 
-### Paso 1: Ejecutar Script de Preparación (Ya hecho ✅)
+### Paso 1: Ejecutar Script de Preparación
 ```bash
-cd python
+cd powerbi/scripts
 python prepare_powerbi_data.py
 ```
 
 Esto genera:
-- Dataset optimizado: `data/Latinobarometro_2024_PowerBI.csv`
-- Resumen de columnas
+- Dataset optimizado: `powerbi/data/Latinobarometro_2024_PowerBI.csv`
+- Resumen de columnas: `powerbi/data/Resumen_Columnas_PowerBI.csv`
 
 ### Paso 2: Abrir Power BI Desktop
 
 1. Abre Power BI Desktop
 2. Click en "Obtener datos" → "Texto/CSV"
-3. Selecciona: `data/Latinobarometro_2024_PowerBI.csv`
+3. Selecciona: `powerbi/data/Latinobarometro_2024_PowerBI.csv`
 4. Separador: **Punto y coma (;)**
 5. Codificación: **UTF-8**
 6. Click en "Cargar"
 
 ### Paso 3: Seguir la Guía Completa
 
-Abre **`POWERBI_SETUP_COMPLETO.md`** y sigue las instrucciones paso a paso.
+Abre **`docs/POWERBI_SETUP_COMPLETO.md`** y sigue las instrucciones paso a paso.
 
 ## 📋 Estructura del Dashboard Requerido
 
@@ -74,7 +77,7 @@ Abre **`POWERBI_SETUP_COMPLETO.md`** y sigue las instrucciones paso a paso.
 
 3. Ejecutar script exploratorio:
 ```bash
-cd python
+cd powerbi/scripts
 python explore_columns.py
 ```
 
@@ -98,10 +101,10 @@ Este script te mostrará los valores en cada columna para ayudarte a identificar
 ## 🛠️ Herramientas y Recursos
 
 ### Fórmulas DAX:
-Consulta **`DAX_FORMULAS_REFERENCE.md`** para copiar y pegar fórmulas listas.
+Consulta **`docs/DAX_FORMULAS_REFERENCE.md`** para copiar y pegar fórmulas listas.
 
 ### Configuración Detallada:
-Sigue **`POWERBI_SETUP_COMPLETO.md`** para instrucciones paso a paso de cada visualización.
+Sigue **`docs/POWERBI_SETUP_COMPLETO.md`** para instrucciones paso a paso de cada visualización.
 
 ## ✅ Checklist de Trabajo
 

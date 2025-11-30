@@ -6,7 +6,7 @@ Necesitas crear un dashboard en Power BI con 4 hojas según los requisitos del t
 
 ## ✅ Lo que Ya Está Listo
 
-1. ✅ Dataset preparado: `data/Latinobarometro_2024_PowerBI.csv`
+1. ✅ Dataset preparado: `powerbi/data/Latinobarometro_2024_PowerBI.csv` (se genera ejecutando el script)
 2. ✅ Columnas limpias y calculadas ya incluidas
 3. ✅ Guías completas de setup
 4. ✅ Fórmulas DAX listas para copiar
@@ -16,7 +16,7 @@ Necesitas crear un dashboard en Power BI con 4 hojas según los requisitos del t
 ### 1. Importar Datos (2 min)
 - Abre Power BI Desktop
 - "Obtener datos" → "Texto/CSV"
-- Selecciona: `data/Latinobarometro_2024_PowerBI.csv`
+- Selecciona: `powerbi/data/Latinobarometro_2024_PowerBI.csv`
 - Separador: **Punto y coma (;)**
 - Click "Cargar"
 
@@ -117,9 +117,9 @@ RETURN Limpio
 
 ## 📚 Documentos de Referencia
 
-1. **Setup Completo**: `POWERBI_SETUP_COMPLETO.md` - Instrucciones detalladas
-2. **Fórmulas DAX**: `DAX_FORMULAS_REFERENCE.md` - Todas las fórmulas
-3. **Guía General**: `POWERBI_GUIDE.md` - Conceptos y contexto
+1. **Setup Completo**: `docs/POWERBI_SETUP_COMPLETO.md` - Instrucciones detalladas
+2. **Fórmulas DAX**: `docs/DAX_FORMULAS_REFERENCE.md` - Todas las fórmulas
+3. **Guía General**: `docs/POWERBI_GUIDE.md` - Conceptos y contexto
 
 ## 💡 Tips Rápidos
 
@@ -155,5 +155,5 @@ RETURN Limpio
 
 ---
 
-**¡Empieza con `POWERBI_SETUP_COMPLETO.md` para instrucciones detalladas!** 🚀
+**¡Empieza con `docs/POWERBI_SETUP_COMPLETO.md` para instrucciones detalladas!** 🚀
 
