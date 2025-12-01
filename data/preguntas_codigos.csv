@@ -1,0 +1,99 @@
+clave,valor
+P1ST,En términos generales, ¿diría Ud. que está satisfecho con su vida? ¿Diría Ud. que está....?
+P2ST,¿Diría Ud. que este país...?
+P3N,¿Tomando en cuenta los últimos 10 años, como ha avanzado Ud y su familia?
+P4ST,Aquí se recogen cuatro opiniones distintas sobre la sociedad (NACIONAL) en que vivimos. ¿Con cuál está Ud más de acuerdo?
+P5STGBS,En su opinión, ¿Cuál considera Ud. que es el problema más importante en el país?
+P6STGBS,¿Cómo calificaría en general la situación económica actual del país? Diría Ud. que es...?
+P7STGBS,¿Considera Ud. que la situación económica actual del país está mucho mejor, un poco mejor, igual, un poco peor, o mucho peor que hace doce meses?
+P8ST,¿Y en los próximos doce meses cree Ud. que, en general, la situación económica del país será mucho mejor, un poco mejor, igual, un poco peor, o mucho peor que ahora?
+P9STGBS,¿Y en los próximos doce meses, cree que su situación económica y la de su familia será mucho mejor, un poco mejor, igual, un poco peor, o mucho peor que la que tiene hoy?
+P10STGBS,Hablando en general, ¿Diría Ud. que se puede confiar en la mayoría de las personas o que uno nunca es lo suficientemente cuidadoso en el trato con los demás?
+P11STGBS,¿Con cuál de las siguientes frases está Ud. más de acuerdo?
+P12STGBS.A,En general, ¿Diría Ud. que está muy satisfecho, más bien satisfecho, no muy satisfecho o nada satisfecho con el funcionamiento de la democracia en (PAÍS)?
+P12STGBS.B,¿Y con el funcionamiento de la economía?
+P13ST,En términos generales ¿Diría usted que (PAÍS) está gobernado por unos cuantos grupos poderosos en su propio beneficio, o que está gobernado para el bien de todo el pueblo?
+P14STGBS A-N,Por favor, mire esta tarjeta y dígame, para cada uno de los grupos, instituciones o personas de la lista ¿cuánta confianza tiene usted en ellas: mucha (1), algo (2), poca (3) o ninguna confianza(4) en…?
+P15STGBS,¿Ud. aprueba o no aprueba la gestión del gobierno que encabeza el presidente (nombre)?
+P16ST,En política se habla normalmente de "izquierda" y "derecha". En una escala dónde "00" es la "izquierda" y "10" la "derecha", ¿Dónde se ubicaría Ud.?
+P17ST,¿Cuán justa cree Ud. que es la distribución del ingreso en (PAÍS)?
+P18ST.A,La democracia puede tener problemas pero es el mejor sistema de gobierno
+P18ST.B,No me importaría que un gobierno no democrático llegara al poder si resuelve los problemas
+P18ST.C,Esta bien que el Presidente pase por encima de las leyes, el parlamento y/o las instituciones con el objeto de resolver los problemas
+P18ST.D,Deberíamos deshacernos de las elecciones y del parlamento y dejar que los expertos tomaran las decisiones por la gente.
+P19ST,Con una escala de 1 a 10, le pedimos evaluar cuán democrático es (PAÍS). El "1" quiere decir que (PAÍS) no es democrático y el "10" quiere decir que (PAÍS) es totalmente democrático. ¿Dónde pondría Ud. a (PAÍS)...?
+P20ST,Hay gente que dice que sin partidos políticos no puede haber democracia, mientras que hay otra gente que dice que la democracia puede funcionar sin partidos. ¿Cuál frase está más cerca de su manera de pensar?
+P21ST,Hay gente que dice que sin Congreso Nacional no puede haber democracia, mientras que hay otra gente que dice que la democracia puede funcionar sin Congreso Nacional. ¿Cuál frase está más cerca de su manera de pensar?
+P22N,Hay gente que dice que sin oposición no puede haber democracia, mientras que hay otra gente que dice que la democracia puede funcionar sin oposición. ¿Cuál frase está más cerca de su manera de pensar?
+P23STM,¿Quién cree Ud. que tiene más poder en (PAÍS)? Puede nombrar hasta tres de esta lista
+P24STGBS,¿Cuál frase está más cerca de su manera de pensar? Hay gente que dice que la política es tan complicada que con frecuencia la gente como uno no puede entender lo que pasa. Otros opinan que la política no es tan complicada y se puede entender lo que pasa
+P25ST,¿Usted se siente políticamente representado en el parlamento/congreso?
+P26ST,Algunas personas dicen que la manera como uno vota puede hacer que las cosas sean diferentes en el futuro. Otros dicen que independientemente de cómo vote, no hará que las cosas sean mejor en el futuro. ¿Cuál frase está más cerca de su manera de pensar?
+P27ST,¿Cree Ud., en términos generales, que las elecciones en este país son limpias o son fraudulentas?
+P28ST,¿Para dónde cree Ud. que van las cosas en (PAÍS)? ¿Cómo ve Ud. el futuro para la generación que viene, comparado con hoy, ¿cree Ud. que el país será más, igual o menos próspero? ¿Más, igual o menos democrático? ¿Más, igual o menos corrupto? ¿Habrá más igual o menos igualdad ante la ley? ¿Más, igual o menos religioso?
+P29ST A-H,Me gustaría conocer su opinión sobre los siguientes países u organizaciones que le voy a leer ¿Tiene Ud. una opinión muy favorable (1), algo favorable (2), algo desfavorable (3) o muy desfavorable (4) sobre?
+P30ST A-E,¿Y cómo calificaría Ud. las relaciones entre (PAÍS) y los Estados Unidos? ¿Diría Ud. que son….? ¿Y entre (PAÍS) y Rusia? ¿Diría que son…? ¿Y entre (PAÍS) y China? ¿Diría que son…? ¿Y entre (PAÍS) y la Unión Europea? ¿Diría que son…? ¿Y entre (PAÍS) e Israel? ¿Diría que son...?
+P1TE.A-D,¿Y cómo calificaría Ud. las relaciones económicas entre (PAÍS) y los Estados Unidos? ¿Diría Ud. que son….? ¿Y entre (PAÍS) y Rusia? ¿Diría que son…? ¿Y entre (PAÍS) y China? ¿Diría que son…? ¿Y entre (PAÍS) y la Unión Europea? ¿Diría que son…?
+P2TE A-D,¿Y cómo calificaría Ud. las relaciones en temas de seguridad entre (PAÍS) y los Estados Unidos? ¿Diría Ud. que son….? ¿Y entre (PAÍS) y Rusia? ¿Diría que son…? ¿Y entre (PAÍS) y China? ¿Diría que son…? ¿Y entre (PAÍS) y la Unión Europea? ¿Diría que son…?
+P3TE,Si Ud pudiera escoger, ¿cree ud que (PAÍS) debería tener relaciones más estrechas con EEUU o con China?
+P31ST,¿Por lo que Ud sabe o ha oído, cree Ud que la integración de (PAÍS) con otros países de la región ha aumentado mucho, ha aumentado algo, ha disminuido algo o ha disminuido mucho en los últimos 5 años?
+P32ST,¿Está Ud. muy a favor, algo a favor, algo en contra o muy en contra de la integración de su país con los otros países de América Latina? ¿y de la integración de su país con otros países fuera de América Latina?
+P33ST A-E,Ahora le voy a nombrar una serie de frases, dígame si está Ud. muy de acuerdo (1), de acuerdo(2), en desacuerdo (3) o muy en desacuerdo (4) con las siguientes afirmaciones?
+P34ST,Ahora le pediría que me dijera desde su punto de vista y el de su familia, ¿si cree Ud que la llegada de inmigrantes al país, lo beneficia o lo perjudica?
+P35ST,¿Con cuál de las siguientes frases está Ud. más de acuerdo?
+P36STGBS,¿Cuán interesado está Ud. en la política?
+P37ST.A,¿Cuál es el problema más importante en el país?
+P37ST.B,¿Y cuál es el segundo más importante?
+P38STGBS,¿Hay algún partido político hacia el cual se sienta usted más cercano que hacia el resto de los partidos?
+P41ST,¿Cuál de las dos frases está más cerca de su manera de pensar? ¿Ha sabido Ud, personalmente de algún acto de corrupción en los últimos doce meses? ¿Ha sabido Ud. de algún amigo o pariente que haya consumido drogas en los últimos doce meses?
+P42ST,Cuando a las personas se les pide que expresen su opinión política, ¿Cree Ud. que la mayoría de las personas dicen lo que piensan acerca de la política o Ud. cree que normalmente no dicen lo que realmente piensan?
+P43ST,¿Y Ud, diría que si expresa públicamente sus opiniones acerca de los problemas del país, podría tener consecuencias negativas para Ud?
+P44ST,¿Dónde suele Ud expresar sus opiniones sobre los problemas del país o Ud no suele hacerlo?
+P45ST,¿Ud. diría que las redes sociales...?
+P46ST,¿Y Ud. diría que lo que se dice en redes sociales representa bien lo que piensa el común de la gente, o que no lo representa bien?
+P47ST A-D,En líneas generales, ¿Ud. diría que en la Televisión circula(1) mucha, (2)alguna, (3)poca o (4)ninguna información falsa? ¿Y en la radio? ¿Y en los diarios?
+P50ST A-C,¿Ha sido Ud. o algún pariente asaltado, agredido, o víctima de un delito en los últimos doce meses?
+P51ST,¿Con qué frecuencia se preocupa Ud. de que pueda llegar a ser víctima de un delito con violencia?
+P52N,¿Cuán grave cree que es el problema del narcotráfico y crimen organizado en (PAÍS)?
+P53N,¿Cuál de las siguientes frases está más cerca de su manera de pensar?
+P54N,En una escala dónde "00" es "Para nada corrupto" y "10" "Totalmente corrupto", ¿cuán corrupto cree Ud que es (PAÍS)?
+P56ST A-C,A continuación le nombraré una serie de líderes y presidentes. Quiero saber si está Ud. muy de acuerdo (1), de acuerdo (2), en desacuerdo (3) o muy en desacuerdo (4) con las siguientes afirmaciones?
+P57N,¿Cual es su manera de pensar sobre qué es mejor, en una escala del 0 al 10 donde 0 es "hacer las cosas uno mismo de manera individual", y 10 es "hacer las cosas con otras personas o grupos", donde se ubica Ud?
+P1NCV,Dígame si Ud. en su vida diaria hace cosas expresamente para cuidar el medioambiente o en su vida diaria no hace cosas expresamente para cuidar el medioambiente?
+P3NCV,¿Cree Ud que hay cambio climático?
+P4NCV,¿De dónde conoce o ha escuchado hablar sobre el cambio climático, o no ha escuchado hablar en ninguna parte sobre el cambio climático?
+P5NCV,¿Cuáles de las siguientes cosas cree Ud que están contribuyendo al cambio climático, o Ud cree que no hay cambio climático?
+P6NCV,¿Cuáles de las siguientes cosas cree Ud que son consecuencia del cambio climático o Ud cree que no hay cambio climático?
+P7NCV A-G,Por favor, dígame si está Ud. muy de acuerdo (1), de acuerdo (2), en desacuerdo (3) o muy en desacuerdo (4), con las siguientes afirmaciones.
+P8NCV A-D,Ahora le voy a nombrar una serie de frases, dígame si está Ud. muy de acuerdo (1), de acuerdo (2), en desacuerdo (3) o muy en desacuerdo (4), con las siguientes afirmaciones.
+P1STINT,¿En los últimos doce meses, compró algún producto/servicio a través de comercio electrónico /Internet?
+P2NINT,A LOS QUE RESPONDEN 1,2,y 3 EN S13-P1STINT ¿Cuán satisfecho está con su experiencia de compra en línea? Diría Ud que está….?
+P4NINT,De la siguiente lista qué es más importante para Ud. al comprar productos en línea de otro país latinoamericano.
+P3NINT,No aplicable
+S00N,¿Cómo se identifica Ud. en una escala de 0 a 10, donde cero significa "ciudadano" y 10 significa "pueblo"?
+S1,¿Cuál es su religión?
+S1A,¿Y cómo se considera Ud.?
+S4,¿Cuán preocupado diría Ud. que está de quedar sin trabajo o de estar desempleado durante los próximos doce meses o no tiene Ud. trabajo?
+S5,El salario o sueldo que Ud. percibe y el total del ingreso familiar, ¿Le permite cubrir satisfactoriamente sus necesidades? ¿En cuál de estas situaciones se encuentra Ud.?
+S6,Usted o algún familiar cercano recibe algún beneficio o apoyo del gobierno de su país?
+S8,¿Ud. y su familia han pensado en la posibilidad de emigrar?
+S9,¿Es Ud. en la casa quién más contribuye al ingreso familiar? ¿Es Ud. el/la jefe de familia?
+S10,¿A qué edad terminó Ud. su educación (educación de tiempo completo)?
+S11,¿Qué estudios ha realizado? ¿Cuál es el último año cursado?
+S12,Y sus padres, ¿qué estudios han realizado? ¿Escuela técnica de qué, instituto de qué..., etc.?
+S13,¿A qué raza/etnia se considera perteneciente Ud.?
+S14M,¿Usa Ud. alguno de los siguientes servicios de redes sociales si es que Ud. usa alguno?
+S15 A-B,¿Cuál es su idioma materno? Idioma en que fue aplicado este cuestionario
+S16,¿Es Ud. ciudadano (NACIONALIDAD)?
+S17,¿Cuál es su fecha de nacimiento?
+S18.A,¿Cuál es su situación ocupacional actual?
+S18.B,A LOS QUE CONTESTAN 4 O 5 EN S18A ¿Cuál era su situación ocupacional anteriormente?
+S19,A LOS QUE CONTESTAN 1, 2, 3 EN S18.A ¿Qué tipo de trabajo hace Ud.?
+S20,¿Ud. o algún miembro de su hogar posee alguno de los siguientes bienes?
+S21A,¿A qué edad terminó su educación el Jefe de familia (educación de tiempo completo)?
+S21B,¿Qué estudios ha realizado? ¿Cuál es el último año cursado?
+S22.A,¿Cuál es la situación ocupacional del Jefe de Familia?
+S22.B,A LOS QUE CONTESTAN 4, 5 EN S22.A ¿Cuál era la situación ocupacional del jefe de familia anteriormente?
+S23,A LOS QUE CONTESTAN 1,2,3 EN S22.A ¿Qué tipo de trabajo hace el Jefe de familia?
+S24,APRECIACION DEL NIVEL SOCIOECONOMICO DEL ENTREVISTADO
+S25,APRECIACIÓN DEL LA CONDICIÓN DE LA ENTREVISTA

@@ -1,0 +1,93 @@
+clave,valor
+P10NOIJ,"Imagínese una escala de 1 a 10, donde 1 Salvador 96 98 99 representa la peor de las vidas para Ud, y 10"
+P10STGBS,"Hablando en general, ¿Diría Ud. que se puede gobierno no democrático llegara confiar en la mayoría de las personas o que uno nunca al poder si resuelve los es lo suficientemente cuidadoso en el trato con los problemas. 1 2 3 4 0 demás?"
+P11STGBS,¿Con cuál de las siguientes frases está Ud. satisfecho con su vida?
+P12STGBS,"A En general, ¿Diría Ud. que está muy Está en retroceso. 3________ satisfecho, más bien satisfecho, no muy satisfecho o NO LEER No sabe. 8 nada satisfecho con el funcionamiento de la democracia NO LEER No responde. 0 en (PAÍS)?"
+P13ST,"En términos generales ¿Diría usted que (PAÍS) NO LEER No responde. 0 está gobernado por unos cuantos grupos poderosos en su propio beneficio, o que está gobernado para el bien de"
+P14ST,H (La institución Muy buena. 1 Electoral del país). 1 2 3 4 8 0 Buena
+P14STGBS,B La policía/ Carabineros. 1 2 3 4 8 0 NO LEER Ninguno
+P15STGBS,"¿Ud. aprueba o no aprueba la gestión del actual del país está mucho mejor, un poco mejor, igual, gobierno que encabeza el presidente (nombre)?"
+P18ST,"C Esta bien que el Presidente pase por encima de las leyes, el Se puede confiar en la mayoría parlamento y/o las instituciones con el de las personas. 1 objeto de resolver los problemas 1. 2 3 4 0 Uno nunca es lo suficientemente cuidadoso en el trato con los demás. 2________ NO LEER NS/NR"
+P1NCV,en su vida diaria hace cosas MD A D MD NS/NR expresamente para cuidar el medioambiente o en su vida
+P1NOIJ,¿Hasta qué edad cree Ud. que se puede decir
+P1ST,"En términos generales, ¿diría Ud"
+P1STINT,"¿En los últimos doce meses, compró algún. 9 9 producto/servicio a través de comercio electrónico /Internet?"
+P1STINT G,Alcantarillado/Cloacas. 1 2 0 ¿Cuán satisfecho está con su experiencia de compra en H. Al menos una comida caliente al día 1 2 0 línea?
+P1TE,RUSIA CHINA UE Muy buenas. 1 1 1 1 La política es tan complicada que no se Más bien buenas. 2 2 2 2 entiende. 1 Más bien malas. 3 3 3 3 La política no es tan complicada y se Muy malas. 4 4 4 4 Entiende. 2 NO LEER No sabe 8 8 8 8 NO LEER No sabe. 8 NO LEER Noresponde0 0 0 0 NO LEER No responde. 0 P2TE A-D ¿Y cómo calificaría Ud
+P20ST,Hay gente que dice que sin partidos políticos igual o menos corrupto?
+P21ST,Hay gente que dice que sin Congreso Nacional no
+P24STGBS,¿Cuál frase está más cerca de su manera de (MARQUE UNA EN
+P25ST,¿Usted se siente políticamente representado en las relaciones en temas de seguridad entre (PAÍS) y el parlamento/congreso? (ESPERE RESPUESTA Y MARQUE los Estados Unidos?
+P26ST,"Algunas personas dicen que la manera como uno Muy buenas. 1 1 1 1 vota puede hacer que las cosas sean diferentes en el Más bien buenas. Otros dicen que independientemente de cómo Más bien malas. 3 3 3 3 vote, no hará que las cosas sean mejor en el futuro. 4 4 4 4 ¿Cuál frase está más cerca de su manera de pensar?"
+P28ST,"1 2 3 0 puede haber democracia, mientras que hay otra gente que dice que la democracia puede funcionar sin Congreso CAMBIANDO A TEMAS INTERNACIONALES Nacional. ¿Cuál frase está más cerca de su manera de pensar?"
+P29ST,1 2 3 4 8 0 Sin oposición no puede haber democracia. 1 P30ST A-E ¿Y cómo calificaría Ud. La democracia puede funcionar las relaciones entre (PAÍS) y los Estados Unidos?
+P2NINT,"A LOS QUE RESPONDEN 1,2,y 3 EN S13-"
+P2ST,¿Diría Ud. ?
+P2TE,2 _____ ¿Y entre (PAÍS) y la Unión Europea? ¿Diría que son…?
+P30ST,RUSIA CHINA UE Israel Las grandes empresas. 1 1 1 1 1 Los militares. 02 Más bien buenas. 2 2 2 2 2 Los sindicatos. 03 Más bien malas. 3 3 3 3 3 Las redes sociales. 4 4 4 4 4 Los ciudadanos. 05 NO LEER No sabe 8 8 8 8 8 Los partidos políticos. 06 NO LEER Noresponde0 0 0 0 0 Los medios de comunicación
+P31ST,"¿Por lo que Ud sabe o ha oído, cree Ud que la"
+P32ST,"B. País FUERA DE América Latina Muy a favor. 1 1 La actividad diaria de las personas. 2 2 Utilizar carbón, petróleo o gas. 2 Algo en contra. 3 3 Cortar/talar bosques. 4 4 Criar ganado. 4 NO LEER NS/NR 0 0 No hay cambio climático. 5 NO LEER No sabe, No responde"
+P33N,C Los inmigrantes causan un Está afectando la salud de las personas. 4 aumento del crimen. 1 2 3 4 0 Está afectando la capacidad de producir comida
+P33ST,"D La economía de mercado es el Ninguna de las anteriores. 6 único sistema con el que el (PAÍS) No hay cambio climático. 7 puede llegar a ser desarrollado. 1 2 3 4 0 NO LEER No sabe, No responde"
+P34ST,"Ahora le pediría que me dijera desde su punto MD A. DA MD NS/NR de vista y el de su familia, ¿si cree Ud que la llegada"
+P35ST,¿Con cuál de las siguientes frases está Ud. más medioambiente 1
+P36STGBS,¿Cuán interesado está Ud. en la política?
+P37STB,¿Y cuál es el segundo más importante?
+P38STGBS,¿Hay algún partido político hacia el cual se Violencia verbal. 08 sienta usted más cercano que hacia el resto de los Violencia en las redes sociales. 09 partidos?
+P39STGBS,"A Si este domingo hubiera elecciones, ¿Por disminuido poco o mucho en los últimos doce meses?"
+P3NCV,¿Cree Ud que hay cambio climático?
+P3TE,"Si Ud pudiera escoger ,¿cree ud que (PAÍS) las cosas sean diferentes en el futuro. 1 debería tener relaciones más estrechas con EEUU o No importa como uno vote, no hará que con China?"
+P40STGBS,"B SÓLO PARA CODIFICAR NO LEER NO LEER Votó por el partido en el gobierno. 1 NO LEER No sabe. 8 8 8 NO LEER Votó por el partido de oposición. 2 NO LEER No responde. 0 0 0 NO LEER No aplica. 9 P50ST A-C ¿Ha sido Ud. o algún pariente asaltado, agredido, o víctima de un delito en los últimos doce"
+P41ST,¿Cuál de las dos frases está más cerca de su manera de pensar?
+P42ST,"Cuando a las personas se les pide que expresen su opinión política, ¿Cree Ud. que la mayoría de las"
+P43ST,"¿Y Ud, diría que si expresa públicamente sus"
+P44ST,¿Dónde suele Ud expresar sus opiniones sobre los problemas del país o Ud no suele hacerlo?
+P45ST,¿Ud. diría que las redes sociales. ?
+P46ST,"¿Y Ud. diría que lo que se dice en redes NO LEER No sabe. 99 sociales representa bien lo que piensa el común de la gente, o que no lo representa bien?"
+P47ST,D ¿Y en las redes sociales?
+P49ST,C DELIN DROGADI CORRUP No inscrito…97 No sabe…98 No responde…00 CUENCIA CCION CION Aumentado mucho. 1 1 1 (SOLO PARA PAISES CON INSCRIPCION VOLUNTARIA DE Aumentado poco. 2 2 2 VOTANTES) Permanecido igual. 3 3 3 Disminuido poco. 4 4 4 Disminuido mucho
+P4NINT,"De la siguiente lista qué es más importante EN S21B SE REQUIERE ANOTAR AÑOS DE ESTUDIO EJ: 1º AÑO para Ud. al comprar productos en línea de otro país DE INSTITUTO SUPERIOR, 3º AÑO ARQUITECTURA latinoamericano"
+P50ST,Asaltado/ agredido/ la libertad de expresión. 2 NO LEER No sabe. 8 víctima de delito. 1 2 8 0 NO LEER No responde
+P51ST,¿Con qué frecuencia se preocupa Ud. de que personas dicen lo que piensan acerca de la política o pueda llegar a ser víctima de un delito con violencia?
+P52N,"¿Cuán grave cree que es el problema del opiniones acerca de los problemas del país, podría narcotráfico y crimen organizado en (PAÍS)?"
+P53N,"¿Cuál de las siguientes frases está más cerca ALTERNATIVAS, ESPERE RESPUESTA Y MARQUE UNA) de su manera de pensar?"
+P55ST,¿Cuánto cree Ud. que se ha progresado en reducir la corrupción en las instituciones del Estado en estos Lo representa bien. 1 No lo representa bien. 2 últimos 2 años?
+P56N,12 Pedro Sánchez/ 96 98 99 España 01 02 03 04 05 06 07 08 09 10 P56N 13 Luis Ignacio da 96 98 99 Silva “Lula”/ Brasil NO LEER No sabe
+P56ST,11 Vladimir Putin/ representa la mejor de las vidas para Ud. ¿Dónde se Rusia 96 98 99 ubica Ud?
+P57N,"¿Cual es su manera de pensar sobre qué es mejor, en una escala del 0 al 10 donde 0 es “hacer las cosas"
+P5NOIJ,Cuando hay escasez de es “muy buena”. ¿O no los conoce suficiente para Trabajos los empleadores deben opinar?
+P5STGBS,"En su opinión, ¿Cuál considera Ud. que es el MUCHA ALGO POCA NINGUNA NS NR problema más importante en el país?"
+P6NIOJ,Hoy día es difícil traer
+P6STGBS,¿Cómo calificaría en general la situación
+P7NCV,G Las plantas y los animales consecuencias negativas en el crecimiento tienen tanto derecho a existir como los económico. 1 seres humanos 1
+P7NOIJ,El aborto 98 99 96 98 99 Chile
+P7STGBS,¿Considera Ud. que la situación económica
+P8NCV,"D Puedo comunicar la LAS QUE QUIERA) importancia de proteger el medio ambiente a o t r a s p e r s o nas 1 2 3 4 0 Uso el transporte público, bicicleta, o camino porque es más amigable P9NCV Por favor dígame con cuales con el medioambiente. 01 d e l a s siguientes afirmaciones usted está de acuerdo Reciclo la basura en mi hogar. 02 ( M A RQUE TODAS LAS QUE QUIERA). Reduzco mi consumo de electricidad por motivos medioambientales. 03 A la gente que conozco Por motivos medioambientales compro les importa el medioambiente. 1 comida de producción local. 04 L a gente que conozco espera Soy parte de una iniciativa colectiva que yo defienda el medioambiente. 2 para proteger el medioambiente. 05 En general confío que las personas Firmo peticiones en línea para proteger defenderán el medioambiente. 3 el medioambiente. 06 E n g en er al co nfío en que el gobierno Uso las redes sociales para alertar sobre defenderá el medioambiente. 4 problemas medioambientales. 07 L as escuelas deberían enseñar Voto por candidatos que defienden el sobre el cambio climático. 08 N i n g u n a. 6 Apoyo acciones del gobierno a favor del NO LEER No sabe. 09 N O L EE R N o responde. 0 No hago nada para proteger el medioambiente 10 NO LEER No sabe. 98 CAMBIANDO DE TEMA NO LEER No responde 00"
+P8NOIJ,La pena de muerte 98 99 96 98 99 Vaticano
+P8ST,"¿Y en los próximos doce meses cree Ud. que, en IZQUIERDA DERECHA general, la situación económica del país será mucho mejor, un poco mejor, igual, un poco peor, o mucho 00 01 02 03 04 05 06 07 08 09 10 peor que ahora?"
+P9NOIJ,Por favor dígame para cada una de las Uruguay 96 98 99 siguientes acciones con una escala de 1 a 10 donde 1
+P9STGBS,"¿Y en los próximos doce meses, cree que su NO LEER No sabe. 8 situación económica y la de su familia será mucho NO LEER No responde. 0 mejor, un poco mejor, igual, un poco peor, o mucho peor que la que tiene hoy?"
+S00N,"¿ Cómo se identifica Ud. en una escala de 0 a uno mismo de manera individual”, y 10 es “hacer las 10, donde cero significa “ciudadano” y 10 significa cosas con otras personas o grupos”, donde se ubica Ud? “pueblo”?"
+S0N,"¿Cómo prefiere Ud. trabajar, solo o en equipo? que una persona es “joven”?"
+S1,¿Cuál es su religión? en la vida de la juventud hoy?
+S10,¿A qué edad terminó Ud. su educación (educación Retirado/pensionado
+S11,¿Qué estudios ha realizado? ¿Cuál es el último CORRESPONDA S19) año cursado?
+S12,"Y sus padres, ¿qué estudios han realizado?"
+S15,B Idioma Materno Idioma Aplicación Asiático(a). 3 Lengua autóctona/Indígena
+S15 A-B,¿Cuál es su idioma materno?
+S16,¿Es Ud. ciudadano (NACIONALIDAD)?
+S17,¿Cuál es su fecha de nacimiento?
+S18,(A LOS QUE CONTESTAN 4 O 5 EN S18A) ¿Cuál EN S11 S12 SE REQUIERE ANOTAR AÑOS DE ESTUDIO EJ: 1º era su situación ocupacional anteriormente?
+S19,"(A LOS QUE CONTESTAN 1,2,3 EN"
+S1A,¿Y cómo se considera Ud. ?
+S20,¿Ud. o algún miembro de su hogar posee alguno de los siguientes bienes?
+S21A,"¿A qué edad terminó su educación el Jefe de muy de acuerdo (1), de acuerdo (2), en desacuerdo (3) familia (educación de tiempo completo)?"
+S21B,¿Qué estudios ha realizado?
+S22,¿Cuál es la situación ocupacional del Jefe de CUATRO PREGUNTAS SOBRE Familia?
+S23,"(A LOS QUE CONTESTAN 1,2,3 EN"
+S24,"APRECIACION DEL NIVEL SOCIOECONOMICO DEL ENTREVISTADO. Tomar como punto de referencia: CALIDAD DE LA VIVIENDA, CALIDAD DE AMUEBLADO Y APARIENCIA GENERAL DEL ENTREVISTADO. (PARA SER CONTESTADA POR ENCUESTADOR) Muy bueno. 3 S25 APRECIACIÓN DEL LA CONDICIÓN DE LA ENTREVISTA. La entrevista… Tuvo lugar sin interferencia. 1 Tuvo lugar al interior del hogar. 2 Tuvo lugar en presencia de otras persona"
+S3,"En los últimos doce meses, ¿Cuán seguido Ud. o su NO LEER No sabe, No responde. 0 familia no han tenido suficiente comida para alimentarse?"
+S4,¿Cuán preocupado diría Ud. que está de quedar sin Trabajo duro/ dedicación al trabajo. 03 trabajo o de estar desempleado durante los próximos Sentido de responsabilidad. 04 doce meses o no tiene Ud. trabajo?
+S6,Usted o algún familiar cercano recibe algún beneficio o apoyo del gobierno de su país?
+S8,¿Ud. y su familia han pensado en la posibilidad 1 2 0 DÍA MES AÑO Sí No NS/NR
+S9,¿Es Ud. en la casa quién más contribuye al ingreso ALTERNATIVAS MARQUE UNA. SIGA LAS FLECHAS PARA familiar?
